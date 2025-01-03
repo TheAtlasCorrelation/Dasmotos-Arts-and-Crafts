@@ -4,20 +4,21 @@
     background-color: rgb(216, 189, 148);
 }
 
+
 .Header {
-    color: rgb(163, 126, 71);
+    color: rgb(155, 125, 85);
 }
 
 .Brush {
-    color: rgb(152, 118, 76);
+    color: rgb(155, 125, 85);
 }
 
 .Frames {
-    color: rgb(153, 119, 77);
+    color: rgb(155, 125, 85);
 }
 
 .Paint {
-    color: rgb(154, 120, 78);
+    color: rgb(155, 125, 85);
 }
 h1 {
     font-size: 100px;
