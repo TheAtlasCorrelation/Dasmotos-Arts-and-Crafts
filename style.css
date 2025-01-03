@@ -1,9 +1,9 @@
 * {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(216, 189, 148);
 }
 
-.header {
+.Header {
     color: rgb(163, 126, 71);
 }
 
@@ -12,11 +12,11 @@
 }
 
 .Frames {
-    color: rgb(152, 118, 76);
+    color: rgb(153, 119, 77);
 }
 
 .Paint {
-    color: rgb(152, 118, 76);
+    color: rgb(154, 120, 78);
 }
 h1 {
     font-size: 100px;
@@ -33,5 +33,5 @@ h2 {
 
 strong {
     font-weight: bold;
-    color: blue;
+    color: rgb(179, 138, 35);
 }
