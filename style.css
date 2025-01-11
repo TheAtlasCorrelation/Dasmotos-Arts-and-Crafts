@@ -1,49 +1,48 @@
 * {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(216, 189, 148);
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(216, 189, 148);
 }
 
-
 .Header {
-    color: rgb(155, 125, 85);
+  color: rgb(155, 125, 85);
 }
 
 .Brush {
-    color: rgb(155, 125, 85);
+  color: rgb(155, 125, 85);
 }
 
 .Frames {
-    color: rgb(155, 125, 85);
+  color: rgb(155, 125, 85);
 }
 
 .Paint {
-    color: rgb(155, 125, 85);
+  color: rgb(155, 125, 85);
 }
 h1 {
-    font-size: 100px;
-    font-weight: bold;
-    color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
 }
 
 h2 {
-    font-size: 60px;
-    font-weight: bold;
-    color: white;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
 }
 
 p {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 strong {
-    font-weight: bold;
-    color: rgb(179, 138, 35);
+  font-weight: bold;
+  color: rgb(179, 138, 35);
 }
 
 .Picture {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
